@@ -1,4 +1,3 @@
-//https://mad9022.github.io/W2022/modules/week1/data-structures/#stacks
 let a1 = new Array();
 let a2 = [];
 let a3 = new Array(3);
